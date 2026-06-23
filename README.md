@@ -1,8 +1,8 @@
 # Outbound Sales Engine
 
-**Six skills to run a sharper B2B sales process from first call to closed deal.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For AEs and SDRs: run a B2B outbound deal from cold email to close with sharper execution.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A tightly scoped set of skills for B2B sales professionals covering every stage of an outbound deal cycle. Covers discovery preparation, objection handling, proposals, mutual action plans, demo structure, and follow-up cadence. Built for AEs and SDRs who want sharper execution, not more theory.
+Reach for this when you own outbound deals and want every stage to land — not generic sales theory. It walks the full motion: write cold outreach that gets replies, prep discovery so you qualify and tailor, demo to the buyer's actual pain, defuse the price/timing/competitor/status-quo objections that stall deals, write a proposal that drives a next step, and run a mutual action plan plus a value-adding follow-up cadence that gets the deal signed instead of going quiet. Built for AEs and SDRs who want sharper execution under deal pressure.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
