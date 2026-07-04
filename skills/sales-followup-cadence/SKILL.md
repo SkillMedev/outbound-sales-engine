@@ -1,38 +1,78 @@
 ---
 name: Sales Follow-Up Cadence
-description: Designs a multi-touch follow-up cadence that adds value at each touch, maintains momentum after a call or demo, and knows when to stop. Use when a deal goes quiet or after any key meeting.
+description: Designs a post-meeting follow-up cadence for active deals — recap within 2 hours, value-add touches on a day 0/2/5/7 rhythm, channel switches when a deal goes quiet, and a clean breakup after 5-7 touches. Use when someone says "the prospect went dark after the demo", "how do I follow up without being annoying", "what should I send after the call", or a deal has stalled between meetings. Do NOT use for cold-prospect sequences before any meeting has happened — use outreach-sequence-designer instead; do NOT use for writing the cold email itself — use cold-email-craft instead; do NOT use for structuring the close with shared milestones — use mutual-action-plan instead.
 ---
 
 # Sales Follow-Up Cadence
 
-Follow-up is where most deals are won or lost. The rep who follows up with something useful every time earns the right to stay in the conversation. The rep who sends 'just checking in' loses it. Every touch needs a reason to exist.
+Follow-up is where most deals are won or lost after the meeting ends. The rep who follows up with something useful every time earns the right to stay in the conversation; the rep who sends "just checking in" trains the buyer to ignore them, and the costly version of that mistake is continuing past a polite close and burning the account for the whole company. Every touch needs a reason to exist, and the cadence needs a defined end.
 
-## The core rule
+## Operating procedure
 
-Every follow-up message must do one of three things: add new information, move an action item forward, or give the buyer something genuinely useful for their job. 'Touching base' and 'circling back' are not reasons to send a message.
+Order matters: the Day 0 recap creates the shared record that every later touch references — skip it and every follow-up becomes a cold restart.
 
-## Post-meeting cadence (first 7 days)
+1. Gather the inputs below immediately after the meeting, while memory is fresh.
+2. Send the Day 0 recap within 2 hours of the meeting.
+3. Schedule the warm cadence (Days 2, 5, 7) in the CRM now, each touch pre-assigned a value-add — do not improvise touches on the day.
+4. Before sending any touch, test it against the core rule: does it add new information, move an action item forward, or give the buyer something genuinely useful for their job? "Touching base" and "circling back" fail this test — rewrite or skip.
+5. If silence continues past Day 7, shift to the cold-deal track (Days 10, 17, 25) with a channel switch.
+6. Send the breakup at touch 7 (Day 25). Then stop. Park the contact in a 90-day re-engagement drip if the product remains a fit.
 
-Day 0 (same day, within 2 hours): Send a meeting recap. Include: what was discussed, what the buyer said their top priority is, agreed next steps with owners and dates, and any open questions. This email does not sell — it confirms shared understanding and creates a paper trail.
+### Step 1: gather inputs
 
-Day 2: Send one relevant piece of value — a case study from a similar company, a short article on the problem they named, or an answer to a question that came up and was left open. One attachment or link, one sentence of context. Do not restate the sales pitch.
+- What was discussed and what the buyer named as their top priority (their words, not the pitch's words).
+- Agreed next steps with owners and dates — including the action item the buyer owns.
+- Open questions left unanswered in the meeting.
+- Deal cycle length (default: standard B2B cycle; if transactional or expected to close within a week, use the compressed track below).
+- Two or three value-add candidates: a case study from a similar company, a relevant article, an answer to an open question. Label any assumption about the buyer's priority as a guess until they confirm it.
 
-Day 5: Follow up on the specific action item the buyer owned from the recap. 'Just wanted to check — were you able to get time with your IT lead? Happy to join that conversation if it helps.'
+## Cadence calendar
 
-Day 7: If no response, send a brief forward of the Day 0 email with a single line: 'Wanted to make sure this did not get buried — let me know if the timing has shifted.'
+```
+WARM TRACK (post-meeting, first 7 days)
+Day 0   Email   Recap within 2 hours: discussed / their #1 priority /
+                next steps w/ owners+dates / open questions. Confirms
+                shared understanding + paper trail. Does not sell.
+Day 2   Email   ONE value-add: case study, article on the problem they
+                named, or answer to an open question. One link, one
+                sentence of context. No pitch restatement.
+Day 5   Email   Nudge THEIR action item: "Were you able to get time
+                with your IT lead? Happy to join if useful."
+Day 7   Email   Forward the Day 0 recap + one line: "Making sure this
+                didn't get buried — has timing shifted?"
 
-## When a deal goes cold (8-30 days of silence)
+COLD TRACK (8-30 days of silence)
+Day 10  LinkedIn or phone — different channel, not another email.
+Day 17  Email   Useful-without-expectation: resource or insight, NO
+                ask. Subject line does not reference the deal.
+Day 25  Email   Breakup: "I don't want to keep reaching out if the
+                timing is off. If things change and you want to
+                revisit, I'm here — otherwise I'll close this out."
 
-Day 10: Try a different channel — LinkedIn message or phone call, not another email.
+AFTER   Stop unless they re-engage. Park in 90-day re-engagement
+        drip if still a fit. Never restart the same cadence.
 
-Day 17: Send a 'useful without expectation' message — a relevant resource or insight with no ask attached. The subject line should not reference the deal.
+COMPRESSED TRACK (transactional / <1-week cycles)
+Day 0 recap → Day 2 value-add → Day 5 breakup.
+```
 
-Day 25: The breakup email. 'I do not want to keep reaching out if the timing is off. If things have changed on your end and you want to revisit, I am here. Otherwise I will close this out on my side.' This message gets more replies than almost any other in the cadence.
+That is 7 touches before the break — within the 5-7 touch band a stalled deal deserves. The breakup email gets more replies than almost any other touch in the cadence; sending it is not giving up, it is the highest-leverage move left.
 
-## What to stop doing
+Bad Day 5 touch: "Hi Sam, just circling back on my last email to see if you had any thoughts!"
+Good Day 5 touch: "Hi Sam — you mentioned looping in your IT lead before Friday. Were you able to get time with them? Happy to join that conversation and handle the security questions directly."
 
-Stop after the breakup email unless the buyer re-engages. Continuing to follow up after a polite close destroys the relationship and the brand. Park the contact for a 90-day re-engagement drip if the product is a fit — not an immediate return to the same cadence.
+## Deliverable
 
-## Escape hatch
+Produce a filled-in cadence calendar for the specific deal: each touch dated from the meeting, channel assigned, and value-add named in advance — plus the drafted Day 0 recap ready to send within the 2-hour window.
 
-For a transactional or short-cycle deal, compress the cadence: Day 0 recap, Day 2 value add, Day 5 breakup. Do not over-engineer follow-up for a deal that should close in a week.
+## Do NOT
+
+- Do not send "just checking in" — a touch with no new information, no action-item motion, and no value teaches the buyer your emails are skippable.
+- Do not continue past the breakup email — following up after a polite close destroys the relationship and the brand, not just the deal.
+- Do not improvise touches day-of — unplanned follow-ups default to check-ins because the value-add was never sourced.
+- Do not restate the pitch in the Day 2 value-add — the recap already established fit; the value-add builds credibility instead.
+- Do not run the full 25-day cadence on a transactional deal — over-engineered follow-up on a one-week deal reads as desperate; use the compressed track.
+
+## Quality bar
+
+Before the cadence ships: the Day 0 recap goes out within 2 hours and contains the buyer's stated priority in their own words plus next steps with owners and dates; every scheduled touch passes the three-purpose rule; at least one touch after Day 7 uses a non-email channel; the breakup is scheduled, not optional; and there is an explicit stop-and-park rule after touch 7. If the deal predates any meeting, this is the wrong skill — build the cold cadence in outreach-sequence-designer.
