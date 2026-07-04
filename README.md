@@ -9,7 +9,7 @@ Reach for this when you own outbound deals and want every stage to land — not 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/outbound-sales-engine](https://skillme.dev/pack/outbound-sales-engine) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/outbound-sales-engine`
+- **With the skills CLI:** `npx skills add SkillMedev/outbound-sales-engine`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
